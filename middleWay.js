@@ -9,4 +9,7 @@
 
 
 
-function
+function middleWay(a, b) {
+  // Return a new array containing the middle elements of both arrays
+  return [a[1], b[1]];
+}
